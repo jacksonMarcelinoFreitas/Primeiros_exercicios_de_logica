@@ -1,0 +1,1 @@
+programa {	funcao inicio() {		real totalVendido, comissao, salarioBruto		escreva("Qual foi o total de suas vendas? ")		leia(totalVendido)				comissao = totalVendido * 0.1		salarioBruto = comissao + 1200			escreva("\nSua comisao é: R$"+ comissao + "\nSalario Bruto é: R$" + salarioBruto + "\n")			}}
